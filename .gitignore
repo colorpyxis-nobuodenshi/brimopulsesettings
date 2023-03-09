@@ -1,0 +1,6 @@
+**/BRIMOPulseSettings/Setup1/*
+**/*.suo
+**/*.user
+**/bin/*
+**/obj/*
+**/packages/*
